@@ -1,0 +1,10 @@
+gymnasium
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+jax
+flax
+optax
+chex
