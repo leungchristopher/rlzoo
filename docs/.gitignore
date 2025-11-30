@@ -2,3 +2,4 @@ build
 seeds
 .next
 pods/service-connections
+.DS_Store
